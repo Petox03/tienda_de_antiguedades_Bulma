@@ -1,1 +1,2 @@
-# tienda_de_antiguedades_Bulma
+# tienda_de_antiguedades
+giro de negocio web

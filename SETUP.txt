@@ -1,0 +1,12 @@
+1.- Clonar el repositorio.
+
+2.- Abrir el archivo "setup.php", el cual creará una base de datos con las tablas
+necesarias para el sistema.
+NOTA: Ya incluye una cuenta admin, pero no me dió tiempo de hacer sus funcionalidades
+de todas formas las haré para que se vean después, profesor.
+
+3.- Abrir el proyecto
+NOTA: se pueden aprecias los productos sin crear una cueta, pero puede crear una cuenta
+para mejor experiencia del sistema.
+
+5.- crear una cuenta para realizar compras.
